@@ -1,5 +1,14 @@
 # BanklineApp
 
+## Link Bankline App
+<a href="https://ken-bankline-app.herokuapp.com/">Link da aplicação</a>
+
+##Telas da Aplicação
+<img src="https://github.com/k3n3dfelix/bankline-app/blob/main/screens/correntistas.PNG"/>
+<img src="https://github.com/k3n3dfelix/bankline-app/blob/main/screens/nova-movimentacao.PNG"/>
+<img src="https://github.com/k3n3dfelix/bankline-app/blob/main/screens/movimentacoes.PNG"/>
+<img src="https://github.com/k3n3dfelix/bankline-app/blob/main/screens/correntistas_atu.PNG"/>
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.0.
 
 ## Development server
