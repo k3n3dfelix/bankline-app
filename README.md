@@ -1,5 +1,7 @@
 # BanklineApp
-Tecnologia Utilizadas:
+Aplicação Web com finalidade de consumir serviços bancarios simples de uma API
+
+## Tecnologia Utilizadas:
 Angular 13 | Bootstrap 5 
 
 ## Link Bankline App
